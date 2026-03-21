@@ -30,7 +30,7 @@ pipeline {
 
   }
   environment {
-    IMAGE_NAME = 'akolovska/kiii'
+    IMAGE_NAME = 'happykhat/kiii'
     DOCKERHUB_CREDENTIALS = 'dockerhub'
   }
 }
